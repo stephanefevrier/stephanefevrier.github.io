@@ -1,9 +1,12 @@
 # Still building 
 
-## Links 
+## cmds 
 
-1. [Projects](projects.md)
-1. CV
+1. jekyll new . --force
+1. bundle exec jekyll serve --livereload
+1. bundle update 
+1. bundle install 
+1. bundle update github-pages
 
 
 ## About me 
