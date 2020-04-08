@@ -30,7 +30,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephanefevrier.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  stephanefevrier
-linkedin_username: stéphane-février-a4928b132
+linkedin_username: stephanefevrier
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# author
+author: Stéphane Février
+
+# Fileds not defaulted by jekyll-new with the minima theme.
+# copyrights
+# copyright: "Nope"
+
+# title-logo is a new field that, when used, displays a logo instead
+# of a custom text. Ideally, image is 50px high and takes up minimal
+# horizontal space. Tested with a new root "images" folder
+title-logo: # /images/nn-logo.png
 
 # Build settings
 # removed minima theme, now it is a regular theme (need to bundle update)
