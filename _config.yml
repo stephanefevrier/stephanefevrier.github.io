@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stéphane Février - Data Science Portfolio
+title: Data Science Portfolio
 email: stephane.fevrier.77@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     So this is the website description. It tells what is this place for,
@@ -43,9 +43,9 @@ author: Stéphane Février
 # title-logo is a new field that, when used, displays a logo instead
 # of a custom text. Ideally, image is 50px high and takes up minimal
 # horizontal space. Tested with a new root "images" folder
-title-logo: # /images/nn-logo.png
+title-logo: /images/nn-logo.svg
 
-# Build settings
+# Build settings*
 # removed minima theme, now it is a regular theme (need to bundle update)
 #theme: minima
 plugins:
