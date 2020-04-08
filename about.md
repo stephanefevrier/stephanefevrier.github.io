@@ -1,4 +1,4 @@
-# About us
+# [About us](index.md)
 
 blablabla
 
