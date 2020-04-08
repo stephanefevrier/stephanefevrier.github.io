@@ -33,7 +33,8 @@ github_username:  stephanefevrier
 linkedin_username: stéphane-février-a4928b132
 
 # Build settings
-theme: minima
+# removed minima theme, now it is a regular theme (need to bundle update)
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-titles-from-headings

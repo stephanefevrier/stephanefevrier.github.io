@@ -1,5 +1,5 @@
-# [Projects](index.md)
+# [Projects](index.markdown)
 
 test page to host projects
 
-[Back to homepage](index.md)
+[Back to homepage](index.markdown)
