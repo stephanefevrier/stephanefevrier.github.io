@@ -1,7 +1,15 @@
-## Stéphane Février personnal website
-
-
 # Still building 
+
+## Links 
+
+1. [Projects](projects.md)
+1. CV
+
+
+## About me 
+
+ezfzefezfezfezf
+
 
 You can use the [Projects](projects.md) to maintain and preview the content for your website in Markdown files.
 
