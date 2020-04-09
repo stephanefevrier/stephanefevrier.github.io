@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="216"
-   height="32"
+   width="250"
+   height="50"
    version="1.1"
    id="svg3987"
    sodipodi:docname="nn-logo.svg"
@@ -38,313 +38,313 @@
      inkscape:window-height="1017"
      id="namedview3989"
      showgrid="false"
-     inkscape:zoom="4.9658512"
-     inkscape:cx="148.84883"
-     inkscape:cy="40.029022"
+     inkscape:zoom="1.2414628"
+     inkscape:cx="243.37205"
+     inkscape:cy="113.96839"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3987" />
   <g
-     transform="matrix(0.15948137,0,0,0.15948137,-137.86196,-59.737964)"
+     transform="matrix(0.24403676,0,0,0.24403676,-197.02848,-90.59318)"
      id="g3980">
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.45421004px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.45421004px;stroke-opacity:1;marker-end:"
        d="m 896,453 68,-60"
        id="path3857"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.81464005px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.81464005px;stroke-opacity:1;marker-end:"
        d="m 896,453 68,-20"
        id="path3859"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.93798006px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.93798006px;stroke-opacity:1;marker-end:"
        d="m 896,453 68,20"
        id="path3861"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.04662001px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.04662001px;stroke-opacity:1;marker-end:"
        d="M 896,493 964,393"
        id="path3863"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.34545299px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.34545299px;stroke-opacity:1;marker-end:"
        d="m 896,493 68,-60"
        id="path3865"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.29492px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.29492px;stroke-opacity:1;marker-end:"
        d="m 896,493 68,-20"
        id="path3867"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.26605001px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.26605001px;stroke-opacity:1;marker-end:"
        d="m 964,393 h 68"
        id="path3869"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.39485401px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.39485401px;stroke-opacity:1;marker-end:"
        d="m 964,393 68,40"
        id="path3871"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.54093498px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.54093498px;stroke-opacity:1;marker-end:"
        d="m 964,393 68,80"
        id="path3873"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.84687996px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.84687996px;stroke-opacity:1;marker-end:"
        d="m 964,393 68,120"
        id="path3875"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.62886px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.62886px;stroke-opacity:1;marker-end:"
        d="m 964,393 68,160"
        id="path3877"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.96804601px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.96804601px;stroke-opacity:1;marker-end:"
        d="m 964,433 68,-40"
        id="path3879"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.19840002px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.19840002px;stroke-opacity:1;marker-end:"
        d="m 964,433 h 68"
        id="path3881"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.764709px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.764709px;stroke-opacity:1;marker-end:"
        d="m 964,433 68,40"
        id="path3883"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.75197798px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.75197798px;stroke-opacity:1;marker-end:"
        d="m 964,433 68,80"
        id="path3885"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.0814367px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.0814367px;stroke-opacity:1;marker-end:"
        d="m 964,433 68,120"
        id="path3887"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.54629201px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.54629201px;stroke-opacity:1;marker-end:"
        d="m 964,473 68,-80"
        id="path3889"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.55539203px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.55539203px;stroke-opacity:1;marker-end:"
        d="m 964,473 68,-40"
        id="path3891"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.24818003px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.24818003px;stroke-opacity:1;marker-end:"
        d="m 964,473 h 68"
        id="path3893"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.81579995px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.81579995px;stroke-opacity:1;marker-end:"
        d="m 964,473 68,40"
        id="path3895"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.72201002px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.72201002px;stroke-opacity:1;marker-end:"
        d="m 964,473 68,80"
        id="path3897"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.83479899px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.83479899px;stroke-opacity:1;marker-end:"
        d="m 1032,393 68,40"
        id="path3899"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.69667298px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.69667298px;stroke-opacity:1;marker-end:"
        d="m 1032,433 h 68"
        id="path3901"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.57537001px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.57537001px;stroke-opacity:1;marker-end:"
        d="m 1032,473 68,-40"
        id="path3903"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.07984996px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.07984996px;stroke-opacity:1;marker-end:"
        d="m 1032,513 68,-80"
        id="path3905"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.45250201px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.45250201px;stroke-opacity:1;marker-end:"
        d="m 1032,553 68,-120"
        id="path3907"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.64774001px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.64774001px;stroke-opacity:1;marker-end:"
        d="m 1032,393 68,80"
        id="path3909"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.50855994px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.50855994px;stroke-opacity:1;marker-end:"
        d="m 1032,393 68,120"
        id="path3911"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.0975346px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.0975346px;stroke-opacity:1;marker-end:"
        d="m 1032,433 68,40"
        id="path3913"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.08767998px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.08767998px;stroke-opacity:1;marker-end:"
        d="m 1032,433 68,80"
        id="path3915"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.0789295px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.0789295px;stroke-opacity:1;marker-end:"
        d="m 1032,473 h 68"
        id="path3917"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.50721902px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.50721902px;stroke-opacity:1;marker-end:"
        d="m 1032,473 68,40"
        id="path3919"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.61805397px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.61805397px;stroke-opacity:1;marker-end:"
        d="m 1032,513 68,-40"
        id="path3921"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.92086101px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.92086101px;stroke-opacity:1;marker-end:"
        d="m 1032,513 h 68"
        id="path3923"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.10541999px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.10541999px;stroke-opacity:1;marker-end:"
        d="m 1032,553 68,-80"
        id="path3925"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.99029005px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.99029005px;stroke-opacity:1;marker-end:"
        d="m 1032,553 68,-40"
        id="path3927"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.60035002px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.60035002px;stroke-opacity:1;marker-end:"
        d="m 896,453 68,60"
        id="path3929"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.06200004px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.06200004px;stroke-opacity:1;marker-end:"
        d="m 896,453 68,100"
        id="path3931"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.28487003px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.28487003px;stroke-opacity:1;marker-end:"
        d="m 896,493 68,20"
        id="path3933"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.77909702px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.77909702px;stroke-opacity:1;marker-end:"
        d="m 896,493 68,60"
        id="path3935"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.78091002px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.78091002px;stroke-opacity:1;marker-end:"
        d="m 964,513 68,-120"
        id="path3937"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.85135996px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.85135996px;stroke-opacity:1;marker-end:"
        d="m 964,513 68,-80"
        id="path3939"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.71984994px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.71984994px;stroke-opacity:1;marker-end:"
        d="m 964,513 68,-40"
        id="path3941"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.133944px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.133944px;stroke-opacity:1;marker-end:"
        d="m 964,513 h 68"
        id="path3943"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.10546005px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.10546005px;stroke-opacity:1;marker-end:"
        d="m 964,513 68,40"
        id="path3945"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.37164px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.37164px;stroke-opacity:1;marker-end:"
        d="m 964,553 68,-160"
        id="path3947"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.176589px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.176589px;stroke-opacity:1;marker-end:"
        d="m 964,553 68,-120"
        id="path3949"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.43639401px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.43639401px;stroke-opacity:1;marker-end:"
        d="m 964,553 68,-80"
        id="path3951"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:1.14084995px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:1.14084995px;stroke-opacity:1;marker-end:"
        d="m 964,553 68,-40"
        id="path3953"
        inkscape:connector-curvature="0" />
     <path
        class="link"
-       style="stroke:#505050;stroke-width:0.25735px;stroke-opacity:1"
+       style="stroke:#505050;stroke-width:0.25735px;stroke-opacity:1;marker-end:"
        d="m 964,553 h 68"
        id="path3955"
        inkscape:connector-curvature="0" />
@@ -500,35 +500,35 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.31854105px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.10796352"
-     x="42.766754"
-     y="22.392775"
+     style="font-style:normal;font-weight:normal;font-size:5.78897047px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0.14472426"
+     x="91.330269"
+     y="29.643564"
      id="text3995"><tspan
        sodipodi:role="line"
        id="tspan3993"
-       x="42.766754"
-       y="22.392775"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.72899818px;line-height:2;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;fill:#1a1a1a;fill-opacity:1;stroke-width:0.10796352">Stéphane Février</tspan></text>
+       x="91.330269"
+       y="29.643564"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.78705978px;font-family:'Microsoft Uighur';-inkscape-font-specification:'Microsoft Uighur';fill:#505050;fill-opacity:1;stroke-width:0.14472426">Stéphane Février</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot4013"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,-934)"><flowRegion
+     transform="translate(0,-916)"><flowRegion
        id="flowRegion4015"><rect
          id="rect4017"
          width="733.00623"
          height="615.40302"
          x="3.2220054"
          y="405.37106" /></flowRegion><flowPara
-       id="flowPara4019" /></flowRoot>  <flowRoot
+       id="flowPara4019"></flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot4021"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,-934)"><flowRegion
+     transform="translate(0,-916)"><flowRegion
        id="flowRegion4023"><rect
          id="rect4025"
          width="107.93718"
          height="69.273117"
          x="1043.9298"
          y="569.69336" /></flowRegion><flowPara
-       id="flowPara4027" /></flowRoot></svg>
+       id="flowPara4027"></flowPara></flowRoot></svg>

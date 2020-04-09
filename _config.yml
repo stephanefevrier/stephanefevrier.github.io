@@ -16,13 +16,15 @@
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# in the templates via {{ site.myvariable }}. 
 
 title: Data Science Portfolio
 email: stephane.fevrier.77@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    So this is the website description. It tells what is this place for,
-    why it is so amazing, and what we can do here. Wow, let's write this later. 
+    Stéphane Février
+# So this is the website description. It tells what is this place for,
+# why it is so amazing, and what we can do here. Wow, let's write this later. 
+
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
@@ -48,6 +50,10 @@ title-logo: /images/nn-logo.svg
 # Build settings*
 # removed minima theme, now it is a regular theme (need to bundle update)
 #theme: minima
+#theme: 'jekyll-swiss'
+theme_color: white-perso
+#theme: 'jekyll-theme-clean-blog'
+
 plugins:
   - jekyll-feed
   - jekyll-titles-from-headings
