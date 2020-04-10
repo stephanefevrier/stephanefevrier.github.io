@@ -2,6 +2,8 @@
 
 // Color variables
 $black: #181818;
+$light-gray: #e2e1e6;
+$light-gray2: #d0cfd4;
 
 $green: rgb(32, 192, 131);
 $green-dark: rgb(24, 139, 95);
@@ -19,15 +21,15 @@ $blue: #009DDB;
 $blue-small: #007AB3;
 
 // Config
-$color-background: $green !default;
+$color-background: $light-gray2 !default;
 $color-dot-accent: $white !default;
 $color-foreground: $white !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
-$color-text-accent: $green !default;
+$color-text-accent: $blue !default;
 $color-code: $blue !default;
-$color-nav-link: $green-dark !default;
-$color-primary-link: $green-dark !default;
+$color-nav-link: $blue-small !default;
+$color-primary-link: $blue-small !default;
 
 
 // Import sass partials (used in all themes)
