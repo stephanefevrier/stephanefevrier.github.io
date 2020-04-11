@@ -24,7 +24,3 @@ Maecenas at hendrerit diam. In at nulla ex. Curabitur ut nisl a mauris elementum
 Curabitur fringilla nunc nulla. Aliquam nec enim purus. Vivamus tincidunt dolor eu turpis laoreet rutrum. Proin et nulla metus. Donec ultricies laoreet erat, eget ultricies augue tempor in. Maecenas suscipit auctor est, vel convallis est rhoncus sit amet. Aliquam erat volutpat.
 
 Etiam eleifend tempor neque, at tristique orci varius vitae. Curabitur quis pretium tortor, nec efficitur turpis. Integer euismod pharetra libero, nec consectetur nisi tincidunt quis. Cras consequat volutpat vulputate. Nunc nec eros mauris. In non convallis lorem. Nunc porta quam nunc, et eleifend lectus feugiat et. Nam efficitur, turpis ut malesuada finibus, ante lectus rhoncus diam, et sollicitudin orci ipsum eget massa. Pellentesque eu urna ac arcu condimentum porta at nec erat. Aenean sed enim sit amet velit interdum vehicula posuere in lorem. Cras ligula nibh, faucibus et magna at, euismod pellentesque purus. Aliquam a nibh vel enim sollicitudin pulvinar. Maecenas in fermentum quam, at tincidunt tellus. Aliquam ullamcorper, lacus non maximus pharetra, nunc odio elementum nulla, quis tempus dolor risus eu tellus. Nunc dictum urna eu scelerisque semper. 
-
-<!-- 
-[Back to homepage](index.markdown)
--->
