@@ -9,9 +9,12 @@ permalink: /projects/
 
 ## Vivamus dignissim
 
-Maybe you'll be interested in an [interactice space-time covid-19 propagation visualization tool.](/map.html)
+Below are some interactive visualizations. Maybe you'll also be interested in an [interactive space-time covid-19 propagation visualization tool (it's a map).](/map.html)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec rhoncus elit, et eleifend mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur justo nunc, sagittis vel malesuada eget, auctor eget augue. Vestibulum facilisis convallis turpis vitae hendrerit. Quisque vulputate bibendum elit at congue. Fusce cursus nunc sit amet lorem aliquet, ac interdum odio vehicula. Maecenas in lobortis urna, eget tempus odio. Fusce placerat dolor ligula, quis commodo libero lobortis vitae.
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/13.embed?showlink=false"></iframe>
+
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/15.embed?showlink=false"></iframe>
+
 
 Proin ultrices, mi sit amet lobortis tempus, lacus massa facilisis massa, vel blandit massa erat vel sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vulputate, tellus pulvinar ullamcorper accumsan, nulla felis iaculis justo, sit amet sodales turpis nibh ut turpis. Sed eget venenatis massa. Duis auctor nisi enim. Pellentesque convallis a massa sit amet molestie. Vivamus dignissim mattis enim, vel rhoncus leo cursus in.
 
