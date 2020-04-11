@@ -4,11 +4,12 @@ title:  Projects
 permalink: /projects/
 #date:   2020-04-08 21:38:20 +0200 
 #categories: jekyll update 
+#to remember: <iframe width="100%" height="500" frameborder="0" scrolling="no" src="file:///map_test.html"></iframe>
 ---
 
 ## Vivamus dignissim
 
-Maybe you'll be interested in an [interactice space-time covid-19 propagation visualization tool ?](/map.html)
+Maybe you'll be interested in an [interactice space-time covid-19 propagation visualization tool.](/map.html)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec rhoncus elit, et eleifend mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur justo nunc, sagittis vel malesuada eget, auctor eget augue. Vestibulum facilisis convallis turpis vitae hendrerit. Quisque vulputate bibendum elit at congue. Fusce cursus nunc sit amet lorem aliquet, ac interdum odio vehicula. Maecenas in lobortis urna, eget tempus odio. Fusce placerat dolor ligula, quis commodo libero lobortis vitae.
 
@@ -18,7 +19,7 @@ Proin ultrices, mi sit amet lobortis tempus, lacus massa facilisis massa, vel bl
 
 Maecenas at hendrerit diam. In at nulla ex. Curabitur ut nisl a mauris elementum tempus eu id dolor. Integer vitae orci mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce sit amet commodo eros. In ultricies lacus sed lectus gravida, ut efficitur est auctor. Etiam luctus posuere sem, vitae eleifend lorem sollicitudin et. Nunc interdum arcu eget tincidunt aliquet. Nunc porta cursus nibh, et ornare ex faucibus at. Sed in ante mauris. Donec bibendum quis mauris vitae consectetur. Nulla aliquam, elit non vestibulum feugiat, dolor diam mollis risus, quis condimentum arcu ipsum non lorem. Suspendisse orci erat, fermentum non nisl id, tincidunt luctus quam. In feugiat, mi sit amet viverra accumsan, urna massa luctus purus, eu maximus dolor eros ac justo.
 
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/8.embed"></iframe>
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/8.embed?showlink=false"></iframe>
 
 Curabitur fringilla nunc nulla. Aliquam nec enim purus. Vivamus tincidunt dolor eu turpis laoreet rutrum. Proin et nulla metus. Donec ultricies laoreet erat, eget ultricies augue tempor in. Maecenas suscipit auctor est, vel convallis est rhoncus sit amet. Aliquam erat volutpat.
 
