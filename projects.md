@@ -10,11 +10,16 @@ permalink: /projects/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec rhoncus elit, et eleifend mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur justo nunc, sagittis vel malesuada eget, auctor eget augue. Vestibulum facilisis convallis turpis vitae hendrerit. Quisque vulputate bibendum elit at congue. Fusce cursus nunc sit amet lorem aliquet, ac interdum odio vehicula. Maecenas in lobortis urna, eget tempus odio. Fusce placerat dolor ligula, quis commodo libero lobortis vitae.
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/1.embed"></iframe>
+
 Proin ultrices, mi sit amet lobortis tempus, lacus massa facilisis massa, vel blandit massa erat vel sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vulputate, tellus pulvinar ullamcorper accumsan, nulla felis iaculis justo, sit amet sodales turpis nibh ut turpis. Sed eget venenatis massa. Duis auctor nisi enim. Pellentesque convallis a massa sit amet molestie. Vivamus dignissim mattis enim, vel rhoncus leo cursus in.
 
 ## Fusce sit amet?
 
 Maecenas at hendrerit diam. In at nulla ex. Curabitur ut nisl a mauris elementum tempus eu id dolor. Integer vitae orci mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce sit amet commodo eros. In ultricies lacus sed lectus gravida, ut efficitur est auctor. Etiam luctus posuere sem, vitae eleifend lorem sollicitudin et. Nunc interdum arcu eget tincidunt aliquet. Nunc porta cursus nibh, et ornare ex faucibus at. Sed in ante mauris. Donec bibendum quis mauris vitae consectetur. Nulla aliquam, elit non vestibulum feugiat, dolor diam mollis risus, quis condimentum arcu ipsum non lorem. Suspendisse orci erat, fermentum non nisl id, tincidunt luctus quam. In feugiat, mi sit amet viverra accumsan, urna massa luctus purus, eu maximus dolor eros ac justo.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//github.com/stephanefevrier/covid-19-analysis/blob/master/hello_world.html"></iframe>
+
 
 Curabitur fringilla nunc nulla. Aliquam nec enim purus. Vivamus tincidunt dolor eu turpis laoreet rutrum. Proin et nulla metus. Donec ultricies laoreet erat, eget ultricies augue tempor in. Maecenas suscipit auctor est, vel convallis est rhoncus sit amet. Aliquam erat volutpat.
 
