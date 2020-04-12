@@ -9,6 +9,8 @@ permalink: /projects/
 
 ## Vivamus dignissim
 
+<iframe width="80%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/16.embed"></iframe>
+
 Below are some interactive visualizations. Maybe you'll also be interested in an [interactive space-time covid-19 propagation visualization tool (it's a map).](/map.html)
 
 <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/13.embed?showlink=false"></iframe>
