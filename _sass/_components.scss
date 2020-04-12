@@ -20,7 +20,7 @@ code {
 
   a {
     text-decoration: underline dotted;
-    color: $color-text-accent;
+    color: $color-text-accent; // $gray; ?
 
     &:hover {
       text-decoration: underline;
