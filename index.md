@@ -5,14 +5,4 @@
 layout: home   
 ---
 
-
 # Homepage
-
-## Links 
-
-1. [Projects](projects.md)
-
-
-## About me 
-
-ezfzefezfezfezf
