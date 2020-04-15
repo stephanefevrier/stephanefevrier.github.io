@@ -32,6 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephanefevrier.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  stephanefevrier
+github_repo: stephanefevrier.github.io
 linkedin_username: stephanefevrier
 
 # Fields minima uses, but are not defaulted with the jekyll new command.

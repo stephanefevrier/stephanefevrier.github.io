@@ -9,22 +9,11 @@ permalink: /projects/
 
 ## Vivamus dignissim
 
-<iframe width="80%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/16.embed"></iframe>
-
-Below are some interactive visualizations. Maybe you'll also be interested in an [interactive space-time covid-19 propagation visualization tool (it's a map).](/map.html)
-
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/13.embed?showlink=false"></iframe>
-
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/15.embed?showlink=false"></iframe>
-
-
 Proin ultrices, mi sit amet lobortis tempus, lacus massa facilisis massa, vel blandit massa erat vel sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vulputate, tellus pulvinar ullamcorper accumsan, nulla felis iaculis justo, sit amet sodales turpis nibh ut turpis. Sed eget venenatis massa. Duis auctor nisi enim. Pellentesque convallis a massa sit amet molestie. Vivamus dignissim mattis enim, vel rhoncus leo cursus in.
 
 ## Fusce sit amet?
 
 Maecenas at hendrerit diam. In at nulla ex. Curabitur ut nisl a mauris elementum tempus eu id dolor. Integer vitae orci mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce sit amet commodo eros. In ultricies lacus sed lectus gravida, ut efficitur est auctor. Etiam luctus posuere sem, vitae eleifend lorem sollicitudin et. Nunc interdum arcu eget tincidunt aliquet. Nunc porta cursus nibh, et ornare ex faucibus at. Sed in ante mauris. Donec bibendum quis mauris vitae consectetur. Nulla aliquam, elit non vestibulum feugiat, dolor diam mollis risus, quis condimentum arcu ipsum non lorem. Suspendisse orci erat, fermentum non nisl id, tincidunt luctus quam. In feugiat, mi sit amet viverra accumsan, urna massa luctus purus, eu maximus dolor eros ac justo.
-
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/8.embed?showlink=false"></iframe>
 
 Curabitur fringilla nunc nulla. Aliquam nec enim purus. Vivamus tincidunt dolor eu turpis laoreet rutrum. Proin et nulla metus. Donec ultricies laoreet erat, eget ultricies augue tempor in. Maecenas suscipit auctor est, vel convallis est rhoncus sit amet. Aliquam erat volutpat.
 
