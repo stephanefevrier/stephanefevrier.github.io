@@ -54,14 +54,14 @@ Country-wise scatter plot. On the above, the total number of cases, on the botto
 
 # Exploratory data analysis
 
-To explore the data in another way, the *violin plot* below gives shows the effect of age and gender on the possibility of dying of the disease. It is to be noted that the dataset used contains less that 1000 people. More details on the dataset used are given below the plot. 
+To explore the data in another way, the *violin plot* below shows the effect of age and gender on the possibility of dying of the disease. It is to be noted that the dataset used contains less that 1000 people. More details on the dataset used and its biases are given below the plot. 
 
-A small correlation of the gender is seen (0.1), but the age seens to be a more influent factor (almost 0.3). Person correlation is used, meaning that the coefficient quantifies a linear relationship. 
+A small correlation of the gender is seen (0.1), but the age seems to be a more influent factor (almost 0.3). Pearson correlation is used, meaning that the coefficient quantifies a linear relationship. 
 
 <!-- violin plot death -->
 <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/208.embed?showlink=false"></iframe>
 
-To understand the data used for the violin plot, the 15 most represented countries in the dataset are presented through a Sankey diagram, where the relationship to Wuhan and the gender of each person are given. This diagram is not here to draw conclusions, but to understand the possible underlying biases present in the data, along with its distribution. 
+To understand the data used for the violin plot, the 15 most represented countries in the dataset are shown through a Sankey diagram, where the relationship to Wuhan and the gender of each person are given. This diagram is not here to draw conclusions, but to understand the possible underlying biases present in the data, along with its distribution. 
 
 
 What can be drawn from this diagram about the dataset used:
@@ -69,6 +69,6 @@ What can be drawn from this diagram about the dataset used:
 - a huge proportion of the population is related to Wuhan, whether by travelling or living there. 
 - a significant proportion of genders are unknown. 
 
-These 3 biases need to be remembered when drawing conclusions from the violin plot, which therefore does not represent the world population. 
+These 3 biases need to be remembered when drawing conclusions from the violin plot, which therefore does not represent the world population. For example, the gender correlation on the patient outcome (dying or not) is already low, but also heavily 
 
 <iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/277.embed?showlink=false"></iframe>
