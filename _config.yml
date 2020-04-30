@@ -83,3 +83,7 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true 
+
+
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+github: [metadata]
