@@ -5,7 +5,13 @@ date:   2020-04-12 14:14:20 +0200
 categories: Health
 permalink: /covid-19-visualizations/
 ---
-This page contains several interactive visualizations about the COVID-19, with the goal to provide an easy way to access and explore the data. Gathered from <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" target="_blank">Kaggle</a>, the data is coming from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">Johns Hopkins Github repository</a>. 
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+This page contains several interactive visualizations about the COVID-19, with the goal to provide an easy way to access and explore the data, gathered from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">Johns Hopkins Github repository</a> and <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" target="_blank">Kaggle</a>. 
 
 All plots are interactive and should be played with. Change the scale / data with the dropdown menus, select the data to be displayed with the legend, and zoom-in by performing a left-click and drag, drawing a square or a vertical / horizontal line. Explore the upper-right corner of each plot to go through other possibilities such as toogling spikes lines. 
 
@@ -55,21 +61,20 @@ Choose the type of cases (*confirmed* / *deaths* / *recovered*) and the y-axes s
 
 # Exploratory data analysis
 
-To explore the data differently, the *violin plot* below shows the effect of age and gender on the possibility of dying of the disease. It is to be noted that the dataset used contains less that 1000 people. More details on the dataset used and its biases are given below the plot. 
+To explore the data differently, the *violin plot* below shows the effect of age and gender on the possibility of dying of the disease. It is to be noted that the dataset contains only 825 examples. More details on the dataset used and its biases are given below the plot. 
 
-A small correlation of the gender is seen (0.1), but the age seems to be a more influent factor (almost 0.3). Pearson correlation is used, meaning that the coefficient quantifies a linear relationship. 
+Gender is slightly correlated to the possibility of dying of the disease (roughly $$0.1$$), but the age correlation to the possibility of dying is higher (almost $$0.3$$). Pearson correlation coefficient is used, measuring a linear correlation.
 
 <!-- violin plot death -->
 <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/208.embed?showlink=false"></iframe>
 
-To understand the data used for the violin plot, the 15 most represented countries in the dataset are shown through a Sankey diagram, where the relationship to Wuhan and the gender of each person are given. This diagram is not here to draw conclusions, but to understand the possible underlying biases present in the data, along with its distribution. 
-
-
-What can be drawn from this diagram about the dataset used:
-- the majority of the population presented is coming from Asia. 
-- a huge proportion of the population is related to Wuhan, whether by travelling or living there. 
-- a significant proportion of genders are unknown. 
-
-These 3 biases need to be remembered when drawing conclusions from the violin plot, which therefore does not represent the world population. For example, the gender correlation on the patient outcome (dying or not) is already low, but also heavily 
+To understand the distribution of the data used for the previous plot and its possible biases, the *Sankey diagram* below shows the country, relationship to Wuhan, and gender of the population sample studied. It is useful to directly see any over-/under-representation of a category. 
 
 <iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/277.embed?showlink=false"></iframe>
+
+What can be drawn from this diagram about the dataset used:
+- a majority of the population presented is coming from Asia. 
+- 32% of the population  is related to Wuhan, whether by travelling or living there. 
+- 17% of genders are unknown (thus removed from the dataset). In known genders, 58% are male and 42% female. 
+
+These 3 biases need to be remembered when drawing conclusions from the violin plot, which therefore does not represent the world population. 
