@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Projects
+title: Projects
 permalink: /projects/
 #date:   2020-04-08 21:38:20 +0200 
 #categories: jekyll update 

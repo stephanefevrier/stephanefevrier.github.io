@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!-- placed here to keep it, script relatex to Tex render-->
+<!-- placed here to keep it, script relatex to Tex render
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     extensions: [
@@ -24,6 +24,8 @@ permalink: /about/
     }
   });
 </script>
+
+-->
 
 
 # Experience
