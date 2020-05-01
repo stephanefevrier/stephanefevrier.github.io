@@ -27,32 +27,17 @@ permalink: /about/
 
 -->
 
+# What is this website about?
 
-# Experience
+Show some stuff.
 
-ezfez ezf  zef 
+# Contact me
 
-ezfezf
+You can find me on:
+- <a href="https://www.linkedin.com/in/stephanefevrier/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/stephanefevrier" target="_blank">GitHub</a>
 
-# Qualifications
+# About the website
 
-ezfezf
-ezfez
-f
-ef
+This website is supported by GitHub Pages and uses Jekyll. The theme used is a modification of the Swiss Jekyll Theme by <a href="https://github.com/broccolini/swiss" target="_blank">broccolini</a>.
 
-# About the theme
-Everything below is false. This is actually a modification of the Swiss Jekyll Theme by [broccolini](https://github.com/broccolini/swiss).
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
