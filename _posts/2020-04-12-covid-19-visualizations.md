@@ -68,7 +68,7 @@ Gender is slightly correlated to the possibility of dying of the disease (roughl
 <!-- violin plot death -->
 <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/208.embed?showlink=false"></iframe>
 
-To understand the distribution of the data used for the previous plot and its possible biases, the *Sankey diagram* below shows the country, relationship to Wuhan, and gender of the population sample studied. It is useful to directly see any over-/under-representation of a category. 
+To understand the distribution of the **data used for the previous plot** and its possible biases, the *Sankey diagram* below shows the country, relationship to Wuhan, and gender of the population sample studied. It is useful to directly see any over-/under-representation of a category. 
 
 <iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/277.embed?showlink=false"></iframe>
 
