@@ -27,9 +27,11 @@ permalink: /about/
 
 -->
 
+{% include construction.html %}
+
 # What is this website about?
 
-Show some stuff.
+Well, it's building.
 
 # Contact me
 
@@ -39,5 +41,5 @@ You can find me on:
 
 # About the website
 
-This website is supported by GitHub Pages and uses Jekyll. The theme used is a modification of the Swiss Jekyll Theme by <a href="https://github.com/broccolini/swiss" target="_blank">broccolini</a>.
+This website is supported by GitHub Pages and uses Jekyll. The theme used is a modification of the Swiss Jekyll Theme by <a href="https://github.com/broccolini/swiss" target="_blank">broccolini</a>. 
 
