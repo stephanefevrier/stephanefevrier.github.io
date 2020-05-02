@@ -3,7 +3,7 @@ layout: post
 title:  "COVID-19 interactive visualizations"
 date:   2020-04-12 14:14:20 +0200
 categories: Health
-permalink: /covid-19-visualizations/
+permalink: covid-19-visualizations/
 ---
 
 <script type="text/javascript" async
