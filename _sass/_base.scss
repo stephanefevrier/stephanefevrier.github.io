@@ -29,7 +29,9 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $body-font-family;
+    //src: $body-src;
     font-size: $body-font-size;
+    font-weight: $body-font-weight;
     line-height: 1.5;
     color: $color-body-text;
     background-color: #fff;
