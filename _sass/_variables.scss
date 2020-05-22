@@ -1,11 +1,12 @@
 // Font family
-$body-font-family: "Open Sans", Arial, sans-serif;
-$body-src: url("../stephanefevrier.github.io/fonts/Roboto/Roboto-Light.ttf") format('truetype');
+$body-font-family: "Open Sans", Roboto, Arial, sans-serif;
+$body-src: url("../stephanefevrier.github.io/fonts/Roboto/OpenSans-Regular.ttf") format('truetype');
 $body-font-size: 16px;
 $body-font-weight: 400;
 $prose-font-size: 20px;
 
-$title-font-family: "IBM Plex Serif", Arial, serif;
+$title-font-family: "IBM Plex Serif", Georgia, Times, serif;
+$title-src: url("../stephanefevrier.github.io/fonts/Roboto/IBMPlexSerif-Regular.ttf") format('truetype');
 
 // Type scale
 $h0-mobile: 64px; //64
