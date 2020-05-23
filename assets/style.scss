@@ -110,6 +110,7 @@
         font-style: italic;
 }
 
+// IBM works without having the font, but open sans doesn't
 // Open Sans
 @font-face {
         font-family: "Open Sans";
@@ -128,17 +129,16 @@
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Regular.ttf") format('truetype');
-        src: local('Open Sans'),
-             local('Open Sans Regular');
-             //url("../fonts/Open_Sans/opensans-regular-webfont.woff") format('woff'),
-             //url("../fonts/Open_Sans/opensans-regular-webfont.woff2") format('woff2');
+        src: local('Open Sans Regular'),
+             url("../fonts/Open_Sans/opensans-regular-webfont.woff") format('woff'),
+             url("../fonts/Open_Sans/opensans-regular-webfont.woff2") format('woff2');
         font-weight: 400;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Italic.ttf") format('truetype');
-        src: local('Open Sans Regular Italic');
+        src: local('Open Sans Italic');
         font-weight: 400;
         font-style: italic;
 }
