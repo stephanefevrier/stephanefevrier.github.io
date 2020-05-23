@@ -1,10 +1,11 @@
 /* Type utilities */
 .h0 {
-  font-family: $title-font-family, Arial, Georgia, Times, serif;
+  font-family: $title-font-family;
   font-size: $h0-mobile;
-  font-weight: 400;
-  line-height: 1.0125;
-  margin-top: 0.85em;
+  font-weight: $title-font-weight;
+  font-style: $title-font-style;
+  line-height: $title-line-height;
+  margin-top: $title-margin-top;
   word-wrap: break-word;
 
   @media (min-width: $breakpoint-lg) {

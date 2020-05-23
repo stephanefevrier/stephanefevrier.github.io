@@ -12,84 +12,98 @@
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Thin.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Thin');
         font-weight: 100;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-ThinItalic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Thin Italic');
         font-weight: 100;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-ExtraLight.ttf") format('truetype'); 
+        src: local('IBM Plex Serif ExtraLight');
         font-weight: 200;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-ExtraLightItalic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif ExtraLight Italic');
         font-weight: 200;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Light.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Light');
         font-weight: 300;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-LightItalic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Light Italic');
         font-weight: 300;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Regular.ttf") format('truetype'); 
+        src: local('IBM Plex Serif');
         font-weight: 400;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Italic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Italic');
         font-weight: 400;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Medium.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Medium');
         font-weight: 500;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
-        src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-MediumItalic.ttf") format('truetype'); 
+        src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-MediumItalic.ttf") format('truetype');
+        src: local('IBM Plex Serif Medium Italic');
         font-weight: 500;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-SemiBold.ttf") format('truetype'); 
+        src: local('IBM Plex Serif SemiBold');
         font-weight: 600;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-SemiBoldItalic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif SemiBold Italic');
         font-weight: 600;
         font-style: italic;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-Bold.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Bold');
         font-weight: 700;
         font-style: normal;
 }
 @font-face {
         font-family: "IBM Plex Serif";
         src: url("../fonts/IBM_Plex_Serif/IBMPlexSerif-BoldItalic.ttf") format('truetype'); 
+        src: local('IBM Plex Serif Bold Italic');
         font-weight: 700;
         font-style: italic;
 }
@@ -98,60 +112,70 @@
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Light.ttf") format('truetype');
+        src: local('Open Sans Light');
         font-weight: 300;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-LightItalic.ttf") format('truetype');
+        src: local('Open Sans Light Italic');
         font-weight: 300;
         font-style: italic;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Regular.ttf") format('truetype');
+        src: local('Open Sans');
         font-weight: 400;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Italic.ttf") format('truetype');
+        src: local('Open Sans Italic');
         font-weight: 400;
         font-style: italic;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf") format('truetype');
+        src: local('Open Sans SemiBold');
         font-weight: 600;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf") format('truetype');
+        src: local('Open Sans SemiBold Italic');
         font-weight: 600;
         font-style: italic;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-Bold.ttf") format('truetype');
+        src: local('Open Sans Bold');
         font-weight: 700;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-BoldItalic.ttf") format('truetype');
+        src: local('Open Sans Bold Italic');
         font-weight: 700;
         font-style: italic;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf") format('truetype');
+        src: local('Open Sans ExtraBold');
         font-weight: 800;
         font-style: normal;
 }
 @font-face {
         font-family: "Open Sans";
         src: url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf") format('truetype');
+        src: local('Open Sans ExtraBold Italic');
         font-weight: 800;
         font-style: italic;
 }
