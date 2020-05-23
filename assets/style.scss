@@ -7,3 +7,15 @@
 @import
         "theme-{{ site.theme_color | default: "black" }}.scss"
 ;
+
+@font-face {
+        font-family: "IBM Plex Serif";
+        src: url("../assets/fonts/IBM_Plex_Serif/IBMPlexSerif-Regular.ttf") format('truetype'); 
+        font-weight: 400;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: $body-font-family;
+        src: $body-src;
+}
