@@ -26,9 +26,9 @@ $blue-small: rgb(0, 97, 187);
 // To directly play with the color without changing where they are used 
 $background-color: #e0e0e0;                 // light-gray3
 $foreground-title-color: rgb(65, 65, 65);   // dark-gray
-$normal-color: rgb(0, 52, 61);            // blue
-$darker-color: rgb(0, 97, 187);             // blue-small
-$body-text-color: #202020;                  // black
+$link-code-color: rgb(0, 98, 190);          // blue
+$darker-color: rgb(0, 91, 177);             // blue-small
+$body-text-color: rgb(65, 65, 65);                 // black
 
 // background body color, to define in _base under body
 $almost-white: rgb(245, 245, 245);
@@ -41,8 +41,8 @@ $color-dot-accent: $pur-white !default;
 $color-foreground: $foreground-title-color !default;
 $color-title: $foreground-title-color !default;
 $color-body-text: $body-text-color !default;
-$color-text-accent: $normal-color !default;
-$color-code: $normal-color !default;
+$color-text-accent: $link-code-color !default;
+$color-code: $link-code-color !default;
 $color-nav-link: $darker-color !default;
 $color-primary-link: $darker-color !default;
 

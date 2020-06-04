@@ -56,9 +56,16 @@
 .header-social-accent { fill: $color-dot-accent; }
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
+.title-post-home-accent{ color: $color-title !important; }
+
 .header-logo { 
   fill: $color-foreground; 
   stroke: $color-foreground;
+  -webkit-transition: fill 0.3s;
+  -moz-transition: fill 0.3s;
+  -o-transition: fill 0.3s;
+  transition: fill 0.3s;
+  
   &:hover {
     fill: $pur-white; 
     stroke: $pur-white; 
@@ -198,15 +205,15 @@
     text-decoration: none !important;
   }
 }
-
 // Link styles for navigation
 .title-post-home {
   font-family: $title-font-family;
   font-weight: 400;
   text-decoration: none !important;
+  color: $color-title !important;
 
   &:hover {
-    color: $color-primary-link;
+    color: $color-primary-link !important;
     text-decoration: none !important;
   }
 }
