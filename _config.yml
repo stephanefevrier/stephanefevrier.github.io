@@ -51,7 +51,7 @@ title-logo: /images/nn-logo.svg
 # removed minima theme, now it is a regular theme (need to bundle update)
 #theme: minima
 #theme: 'jekyll-swiss'
-theme_color: white-perso
+theme_color: white-perso-2
 #theme: 'jekyll-theme-clean-blog'
 
 plugins:
