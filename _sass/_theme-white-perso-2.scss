@@ -3,16 +3,16 @@
 // Color variables
 $black: #202020;
 $light-gray: #e2e1e6;
-//$light-gray2: #d0cfd4;
 $light-gray2: #aaaaaa;
-//$light-gray2: #ebebeb;
+
+$light-gray3: #ebebeb;
+$dark-gray: rgb(65, 65, 65); 
 
 $green: rgb(32, 192, 131);
 $green-dark: rgb(24, 139, 95);
 $blue-perso: rgb(50, 53, 190);
 $gray-light: #f5f5f5;
 $white: #fff;   
-//$white: rgb(65, 65, 65);   
 
 $gray: #777;
 $yellow: #fec92e;
@@ -23,16 +23,27 @@ $red-dark: #DC3918;
 $blue: rgb(0, 135, 224);
 $blue-small: rgb(0, 97, 187);
 
+// To directly play with the color without changing where they are used 
+$background-color: #ebebeb;                 // light-gray3
+$foreground-title-color: rgb(65, 65, 65);   // dark-gray
+$normal-color: rgb(0, 52, 61);            // blue
+$darker-color: rgb(0, 97, 187);             // blue-small
+$body-text-color: #202020;                  // black
+
+//background body color, to define in _base under body
+$almost-white: rgb(247, 247, 247);
+$pur-white: rgb(255, 255, 255);
+
 // Config
-$color-background: $light-gray2 !default;
-$color-dot-accent: $blue-small !default;
-$color-foreground: $white !default;
-$color-title: $white !default;
-$color-body-text: $black !default;
-$color-text-accent: $blue !default;
-$color-code: $blue !default;
-$color-nav-link: $blue-small !default;
-$color-primary-link: $blue-small !default;
+$color-background: $background-color !default;
+$color-dot-accent: $darker-color !default;
+$color-foreground: $foreground-title-color !default;
+$color-title: $foreground-title-color !default;
+$color-body-text: $body-text-color !default;
+$color-text-accent: $normal-color !default;
+$color-code: $normal-color !default;
+$color-nav-link: $darker-color !default;
+$color-primary-link: $darker-color !default;
 
 
 // Import sass partials (used in all themes)
