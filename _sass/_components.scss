@@ -123,18 +123,18 @@ code {
     th,
     td {
       padding: $spacer-2 $spacer-3 $spacer-2 2px;
-      border-top: 1px solid $color-body-text;
-      border-bottom: 1px solid $color-body-text;
+      border-top: 1px solid $color-border;
+      border-bottom: 1px solid $color-border;
     }
 
     tr {
       background-color: #fff;
-      border-top: 1px solid $color-body-text;
+      border-top: 1px solid $color-border;
     }
 
     tr th {
-      border-top: 2px solid $color-body-text;
-      border-bottom: 2px solid $color-body-text;
+      border-top: 2px solid $color-border;
+      border-bottom: 2px solid $color-border;
     }
   }
 

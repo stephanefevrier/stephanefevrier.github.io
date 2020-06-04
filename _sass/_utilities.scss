@@ -47,11 +47,24 @@
 .header-border { border-color: $color-foreground; }
 .header-title { color: $color-title; }
 .header-text { color: $color-foreground; }
-.header-social { fill: $color-foreground; }
+.header-social { 
+  fill: $color-foreground; 
+  &:hover {
+    fill: $pur-white; 
+  }
+}
 .header-social-accent { fill: $color-dot-accent; }
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
-.header-logo { fill: $color-foreground; stroke: $color-foreground}
+.header-logo { 
+  fill: $color-foreground; 
+  stroke: $color-foreground;
+  &:hover {
+    fill: $pur-white; 
+    stroke: $pur-white; 
+  }
+}
+
 
 /* Layout utilities */
 .container { max-width: $container-width; }
