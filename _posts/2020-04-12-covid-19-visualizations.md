@@ -34,14 +34,12 @@ Each country has a different way of counting the number of cases:
 <!-- World indicators -->
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/16.embed?showlink=false"></iframe>
 
-The evolution of the number of cases in the world is presented below. The bottom plot gives the repartition between cases.
+The evolution of the **number of cases in the world** is presented below. The bottom plot gives the **repartition between cases**.
 
 <!-- World scatter (total) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/164.embed?showlink=false"></iframe>
 
-As an addition, the number of daily new cases is given below
-
-The number of new cases each day is given below. The percentage is calculated as the difference with the previous day. The bottom subplot gives the repartition between cases.
+The number of **new cases each day** is given below. The percentage is calculated as the **difference with the previous day**. The bottom subplot gives the **  repartition between cases**.
 
 <!-- World scatter (delta) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/166.embed?showlink=false"></iframe>
@@ -56,12 +54,17 @@ See also the <a href="/map_animated.html" target="_blank">geographical evolution
 <!-- map -->
 <iframe width="100%" height="600" frameborder="0" scrolling="yes" src="//plotly.com/~stephanefevrier/41.embed?showlink=false"></iframe>
 
-Country-wise scatter plot. On the above, the total number of cases, on the bottom, the number of new cases each day. The interactive legend allows to isolate a specific country or a group of countries. 
+Country-wise scatter plot. On the above, the **total number of cases**, on the bottom, the **number of new cases each day**. The interactive legend allows to isolate a specific country or a group of countries. 
 
 Choose the type of cases (*confirmed* / *deaths* / *recovered*) and the y-axes scale with the dropdown menus.
 
 <!-- scatterplot per country -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/18.embed?showlink=false"></iframe>
+
+Same plot as above, but the **percentage of cases regarding the country population** is given, instead of the number of cases.
+
+<!-- scatterplot per country with percentages -->
+<iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/568.embed?showlink=false"></iframe>
 
 <!-- 
 # Exploratory data analysis
