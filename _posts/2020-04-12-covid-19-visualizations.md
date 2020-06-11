@@ -39,7 +39,7 @@ The evolution of the **number of cases in the world** is presented below. The bo
 <!-- World scatter (total) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/164.embed?showlink=false"></iframe>
 
-The number of **new cases each day** is given below. The percentage is calculated as the **difference with the previous day**. The bottom subplot gives the **  repartition between cases**.
+The number of **new cases each day** is given below. The percentage is calculated as the **difference with the previous day**. The bottom subplot gives the **repartition between cases**.
 
 <!-- World scatter (delta) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/166.embed?showlink=false"></iframe>
@@ -66,13 +66,23 @@ Same plot as above, but the **percentage of cases regarding the country populati
 <!-- scatterplot per country with percentages -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/568.embed?showlink=false"></iframe>
 
-<!-- 
-# Exploratory data analysis
+The final plot below shows the **daily deaths in 169 countries**. Data can be presented in terms of numbers or in percentage of population, and hovering the mouse provides additionnal informations. The plot can also be converted to a 3D Surface (sill building).
+
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/577.embed?showlink=false"></iframe>
+
+<!--
+For a lot of countries.
+
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/586.embed?showlink=false"></iframe>
+
+
+ 
+Exploratory data analysis
+
 
 To explore the data differently, the *violin plot* below shows the effect of age and gender on the possibility of dying of the disease. It is to be noted that the dataset contains only 825 examples. More details on the dataset used and its biases are given below the plot. 
-
 Gender is slightly correlated to the possibility of dying of the disease (roughly $$0.1$$), but the age correlation to the possibility of dying is higher (almost $$0.3$$). Pearson correlation coefficient is used, measuring a linear correlation.
--->
+
 <!-- violin plot death -->
 <!--
 <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/208.embed?showlink=false"></iframe>
