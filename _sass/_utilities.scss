@@ -197,8 +197,10 @@
 
 // Link styles for navigation
 .link-primary {
-  font-weight: 600;
+  font-weight: 500;
   text-decoration: none !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 
   &:hover {
     color: $color-primary-link;

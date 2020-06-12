@@ -14,7 +14,7 @@ permalink: covid-19-visualizations
 This page contains several interactive visualizations about the COVID-19 propagation, with the goal to provide an easy way to access and explore the data, gathered from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">Johns Hopkins Github repository</a>.
 <!--  and <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" target="_blank">Kaggle</a>.  -->
 
-All plots are automatically updated daily, and their interactivity encourages user exploration. The code made with Python on a Jupyter notebook is maintained on <a href="https://github.com/stephanefevrier/covid-19-analysis" target="_blank">this repository</a>.
+All plots are automatically updated daily, and their interactivity encourages user exploration. The code written in Python on a Jupyter notebook is maintained on <a href="https://github.com/stephanefevrier/covid-19-analysis" target="_blank">this repository</a>.
 
 # Notes on the data
 
@@ -33,42 +33,36 @@ All plots are automatically updated daily, and their interactivity encourages us
 <!-- World indicators -->
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/16.embed?showlink=false"></iframe>
 
-The evolution of the **total number of cases in the world** is presented below, along with the **repartition between cases**.
+The evolution of the **total number of cases in the world** is presented below, along with the **repartition between cases**. The legend is interactive, and the y-axis can be set to a logarithmic scale.
 
 <!-- World scatter (total) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/164.embed?showlink=false"></iframe>
 
-The number of **daily new cases in the world** is given below, along with the **repartition between cases**. Percentages are calculated as a comparison with the previous day.
+The number of **daily new cases in the world** is given below, along with the **repartition between daily new cases**. Use the **button** to switch between numbers and percentages (calculated as a comparison with the previous day). The legend is interactive, and the y-axis can be set to a logarithmic scale.
 
 <!-- World scatter (delta) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/166.embed?showlink=false"></iframe>
 
 # Per country
 
-The **map** below shows the **total number of cases** for each country. See also the <a href="/map_animated.html" target="_blank">animated evolution of deaths cases through time</a> (opening in a new tab).
+The **map** below shows the **total number of cases** for each country. Use the **button** to switch between cases. See also the <a href="/map_animated.html" target="_blank">animated evolution of daily deaths through time</a> (opening in a new tab).
 
 <!-- map -->
 <iframe width="100%" height="600" frameborder="0" scrolling="yes" src="//plotly.com/~stephanefevrier/41.embed?showlink=false"></iframe>
 
-The following **heatmap** shows the **daily / total number of deaths through time**, expressed **as a number / as a proportion of the population** (use the **buttons** to switch data). Hovering the mouse provides additional informations.
+The following **heatmap** shows the **daily or total number of deaths through time**, expressed **as a number or as a proportion of the population** (use the **buttons** to choose data). Hovering the mouse provides additional informations.
 
-- x-axis: date
-- y-axis: 169 countries presented by alphabetical order. 
-- color: number / proportion of deaths for each country, daily or total. It represents a height, a 3rd dimension.
-
-The 3rd dimension represented by the color can be seen explicitly by clicking on the **3D Surface** button.
+On the y-axis, **169 countries** are presented by alphabetical order. The **color** shows the data like a **height** seen from top-view. This 3rd dimension represented by the color can be seen explicitly by clicking on the **"3D Surface" button** (some seconds to load).
 
 <!-- heatmap / surface -->
 <iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/577.embed?showlink=false"></iframe>
 
-The **scatter plots** below, more conventional, show for 10 countries the number of confirmed / deaths / recovered cases (use the button to switch). On the above, the **total number of cases**, on the bottom, the **number of new cases each day**. 
-
-The **interactive legend** allows to isolate a specific country or a group of countries, and the y-axes scale can be set with the dropdown menus.
+The **scatter plots** below, more conventional, show for 10 countries the number of confirmed / deaths / recovered cases (use the **button** to switch). On the above, the **total number of cases**, on the bottom, the **number of new cases each day**. The legend is interactive, and the y-axes can be set to a logarithmic scale.
 
 <!-- scatterplot per country -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/18.embed?showlink=false"></iframe>
 
-To allow better comparison between countries, the same graph is given with the **number of cases per 100,000 inhabitants**.
+To allow better comparison between countries, the same graph is given with the **number of cases per 100,000 inhabitants**. The legend is interactive, and the y-axes can be set to a logarithmic scale.
 
 <!-- scatterplot per country with percentages -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/568.embed?showlink=false"></iframe>
