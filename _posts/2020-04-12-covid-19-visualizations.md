@@ -15,16 +15,15 @@ This page contains several interactive visualizations about the COVID-19 propaga
 <!--  and <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" target="_blank">Kaggle</a>.  -->
 
 All plots are automatically updated daily, and their interactivity encourages user exploration. The code made with Python on a Jupyter notebook is maintained on <a href="https://github.com/stephanefevrier/covid-19-analysis" target="_blank">this repository</a>.
-Each country has a different way of counting the number of cases: 
 
 # Notes on the data
 
 - Data starts on January 22, 2020.
 - Cases are separated in 3 categories: *confirmed, deaths and recovered*.
-- The reliability of comparisons between countries is subject to a number of caveats: each one has a different way of counting the number of cases.
+- Comparison between countries is subject to a number of caveats: each country has a different way of counting the number of cases.
 - Spikes in the number of cases may appear, and are generally caused by the introduction of a new way of counting by the contry concerned.
 
-*The visualizations are are provided for informative purpose only, and the numbers may differ from the official ones although differences should be minor.*
+*The visualizations are provided for informative purpose only, the numbers may differ from the official ones although differences should be minor.*
 
 <!--All plots are interactive and should be played with. Change the scale / data with the dropdown menus, select the data to be displayed with the legend, and zoom-in by performing a left-click and drag, drawing a square or a vertical / horizontal line. Explore the upper-right corner of each plot to go through other possibilities such as toogling spikes lines. -->
 
@@ -34,41 +33,46 @@ Each country has a different way of counting the number of cases:
 <!-- World indicators -->
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/16.embed?showlink=false"></iframe>
 
-The evolution of the **number of cases in the world** is presented below. The bottom plot gives the **repartition between cases**.
+The evolution of the **total number of cases in the world** is presented below, along with the **repartition between cases**.
 
 <!-- World scatter (total) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/164.embed?showlink=false"></iframe>
 
-The number of **new cases each day** is given below. The percentage is calculated as the **difference with the previous day**. The bottom subplot gives the **repartition between cases**.
+The number of **daily new cases in the world** is given below, along with the **repartition between cases**. Percentages are calculated as a comparison with the previous day.
 
 <!-- World scatter (delta) --->
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/166.embed?showlink=false"></iframe>
 
 # Per country
 
-Overview of the COVID-19, country-wise. Use the upper-left menu to zoom. Switching back the projection from orthographic to Natural earth or Equirectangular may lead to projection problems. 
-
-See also the <a href="/map_animated.html" target="_blank">geographical evolution of COVID-19 deaths cases through time</a> (opening in a new tab).
-
+The **map** below shows the **total number of cases** for each country. See also the <a href="/map_animated.html" target="_blank">animated evolution of deaths cases through time</a> (opening in a new tab).
 
 <!-- map -->
 <iframe width="100%" height="600" frameborder="0" scrolling="yes" src="//plotly.com/~stephanefevrier/41.embed?showlink=false"></iframe>
 
-Country-wise scatter plot. On the above, the **total number of cases**, on the bottom, the **number of new cases each day**. The interactive legend allows to isolate a specific country or a group of countries. 
+The following **heatmap** shows the **daily / total number of deaths through time**, expressed **as a number / as a proportion of the population** (use the **buttons** to switch data). Hovering the mouse provides additional informations.
 
-Choose the type of cases (*confirmed* / *deaths* / *recovered*) and the y-axes scale with the dropdown menus.
+- x-axis: date
+- y-axis: 169 countries presented by alphabetical order. 
+- color: number / proportion of deaths for each country, daily or total. It represents a height, a 3rd dimension.
+
+The 3rd dimension represented by the color can be seen explicitly by clicking on the **3D Surface** button.
+
+<!-- heatmap / surface -->
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/577.embed?showlink=false"></iframe>
+
+The **scatter plots** below, more conventional, show for 10 countries the number of confirmed / deaths / recovered cases (use the button to switch). On the above, the **total number of cases**, on the bottom, the **number of new cases each day**. 
+
+The **interactive legend** allows to isolate a specific country or a group of countries, and the y-axes scale can be set with the dropdown menus.
 
 <!-- scatterplot per country -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/18.embed?showlink=false"></iframe>
 
-Same plot as above, but the **percentage of cases regarding the country population** is given, instead of the number of cases.
+To allow better comparison between countries, the same graph is given with the **number of cases per 100,000 inhabitants**.
 
 <!-- scatterplot per country with percentages -->
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/568.embed?showlink=false"></iframe>
 
-The final plot below shows the **daily deaths in 169 countries**. Data can be presented in terms of numbers or in percentage of population, and hovering the mouse provides additionnal informations. The plot can also be converted to a 3D Surface (sill building).
-
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stephanefevrier/577.embed?showlink=false"></iframe>
 
 <!--
 For a lot of countries.

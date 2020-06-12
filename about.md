@@ -30,7 +30,7 @@ permalink: /about/
 
 # Presentation
 
-My name is Stéphane Février, I am a **Data Scientist** with a double master's degree in **Mechanical Engineering**. During my studies in France and Italy, I stepped into data science because of my deep interest in Artifical Intelligence. This led me to start learning on my own about how Machine Learning and Deep Learning work, before starting to apply this knowledge to real problems. I am now about to start a **PhD** at the crossroads between Deep Learning, Vibration Analysis and Predictive Maintenance. 
+My name is Stéphane Février, I am a **Data Scientist** with a double master's degree in **Mechanical Engineering**. During my studies in France and Italy, I stepped into data science because of my deep interest in Artifical Intelligence. This led me to start learning on my own about how Machine Learning and Deep Learning work, before starting to apply this knowledge to real problems. I am now about to start a PhD at the crossroads between Deep Learning, Vibration Analysis and Predictive Maintenance. 
 
 # The website
 
