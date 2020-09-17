@@ -30,7 +30,7 @@ permalink: /about/
 
 # Presentation
 
-My name is Stéphane Février, I am a **Data Scientist** with a double master's degree in **Mechanical Engineering**. During my studies in France and Italy, I stepped into data science because of my deep interest in Artifical Intelligence. This led me to start learning on my own about how Machine Learning and Deep Learning work, before starting to apply this knowledge to real problems. I am now about to start a PhD at the crossroads between Deep Learning, Vibration Analysis and Predictive Maintenance. 
+Lorem ipsum :)
 
 # The website
 
@@ -49,8 +49,6 @@ If you wish to contact me you can use the links provided below.
 # ot
 
 
-
-I am not looking for a full time job, but we can assess together the possibility of a freelance mission.
 
 for ease-of-use and speed on the user side.
 

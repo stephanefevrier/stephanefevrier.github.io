@@ -16,6 +16,10 @@ This page contains several interactive visualizations about the COVID-19 propaga
 
 All plots are automatically updated daily, and their interactivity encourages user exploration. The code written in Python on a Jupyter notebook is maintained on <a href="https://github.com/stephanefevrier/covid-19-analysis" target="_blank">this repository</a>.
 
+# Disclaimer 
+
+This page was made out of boredom for the sole purpose of producing embeddable interactive plots, the nature of the data itself is anecdotal.
+
 # Notes on the data
 
 - Data starts on January 22, 2020.
